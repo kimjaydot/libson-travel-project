@@ -153,6 +153,7 @@ header {
   padding: 200px;
   color: white;
   text-align: center;
+  filter: grayscale(100%);
 }
 
 header h1 {
