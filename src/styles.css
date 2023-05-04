@@ -305,4 +305,9 @@ footer a {
   .embed {
     aspect-ratio: 16 /9;
   }
+
+  blockquote {
+    margin: 0 auto;
+    display: block;
+  }
 }
